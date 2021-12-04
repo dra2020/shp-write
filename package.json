@@ -1,6 +1,6 @@
 {
   "name": "@dra2020/shp-write",
-  "version": "0.3.2",
+  "version": "0.3.7",
   "description": "write shapefiles from pure javascript",
   "main": "index.js",
   "scripts": {
