@@ -1,5 +1,8 @@
 [![Build Status](https://secure.travis-ci.org/mapbox/shp-write.svg?branch=master)](http://travis-ci.org/mapbox/shp-write)
 
+# This fork
+This fork of shp-write is now obsolete. It's only use was in the client and that's been replaced by the latest version of the original from which this was forked. Delete this repo at some point soon, when use of the change has been deployed for a bit.
+
 # shp-write
 
 Writes shapefile in pure javascript. Uses [dbf](https://github.com/tmcw/dbf)
